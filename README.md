@@ -1,22 +1,18 @@
-### Olá 👋, sou Carlos Cavalheiro ;)
+### Sou Carlos Cavalheiro 👋
 
 <p style="text-align:left;"><img src="./images/img_eu.jpg" style="zoom:60%;" /></p>
 
 Lençóis Paulista - São Paulo | Idade: 41 anos 
 
-## Quem sou?
+## Saiba mais...
 -	Atualmente trabalho como professor/instrutor de informática básica e avançada, e também sou sócio proprietário de uma empresa de desenvolvimento de aplicações para internet;
 -	Gosto muito de aprender, considero ter facil comunicação e trabalho bem com situações de articulação entre stakeholders e que sejam desafiadoras, também considero ter facilidade em trabalhar em equipe;
--	Sou casado com a Roberta e temos dois filhos Júlia e Guilherme, amo estar presente com minha;
+-	Sou casado com a Roberta e temos dois filhos Júlia e Guilherme, amo estar com eles e fazer "coisas" juntos;
 
 ## Contato
 - whatsApp: +55 (14) 98834-0554
 - linkdean: www.linkedin.com/in/cavalheiro-ca/
 - github: https://github.com/CarlosCavalheiro
-
-## SÍNTESE DE QUALIFICAÇÕES
--	Amplo conhecimento em tecnologia da informação, conhecimentos de serviços Cloud (AWS, AZURE e GCP), Administração de redes on-primeses (Linux e Windows), Microsoft Office 365, Softwares Gráficos, Programação e Desenvolvimento Web/Mobile (C#.net e Xamarin Forms) e Gerenciamento de Projetos e Equipe;
--	Sócio proprietário da empresa Ninebit (www.ninebit.com.br)  soluções web/mobile, atuando como gerente de projetos, desenvolvimento e design UX/UI;
 
 ## DESCRIÇÃO DE ATUAÇÃO
 -	Experiência como docente Ministrado Treinamento de Aperfeiçoamento profissional para os cursos: Informática Básica, Web designer, Design Gráfico, Manutenção de Computadores, Excel Completo, Excel Avançado, Excel com ênfase em VBA, Dashboard em Excel, Gerenciamento de Projetos com MS Project atuação no curso Técnico Desenvolvimento para Internet (Full Stack);
