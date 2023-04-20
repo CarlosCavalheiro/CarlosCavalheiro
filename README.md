@@ -23,6 +23,19 @@ Lençóis Paulista - São Paulo | Idade: 41 anos
 -	Conhecimentos e aplicação no desenvolvimento web e mobile, conhecimentos em: Html, Css, Javascript, Bootstrap, JAVA, C#.net, Xamarin.Forms, MySQL, NodeJs, Angular, versionamento com Git e SVN;
 - Administração de redes de computadores Windows Server (Administração de usuários, Active Director, Perfil, Acessos Web, IIS, etc...) e Linux (Distibuições como: Mandriva, RedHat, Debian, Slackware, configurando e administrando níveis de compartilhamento, NFS, Squid, WebMail, DNS, DHCP, Firewall, Samba, Wine, entre outros).
 
+## ATUALMENTE ESTOU MAIS FOCADO...
+<div style="display: inline;">
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />                
+</div>
+
 ## FORMAÇÃO
 - PÓS-GRADUAÇÃO - ENGENHARIA DE SOFTWARE PARA DISPOSITIVOS MÓVEIS
   - UNINTER – Concluído em Out/2021
