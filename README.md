@@ -1,5 +1,4 @@
-### Hi there 👋
-# Carlos Alexandre Cavalheiro (Currículo)
+### Olá 👋, sou Carlos Cavalheiro ;)
 
 <p style="text-align:left;"><img src="./images/img_eu.jpg" style="zoom:60%;" /></p>
 
