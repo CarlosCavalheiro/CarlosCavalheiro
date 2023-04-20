@@ -1,8 +1,8 @@
 ### Sou Carlos Cavalheiro 👋
 
-<p style="text-align:left;"><img src="./images/img_eu.jpg" style="zoom:60%;" /></p>
+> <img src="./images/img_eu.jpg" style="zoom:60%;">
 
-Lençóis Paulista - São Paulo | Idade: 41 anos 
+> Lençóis Paulista - São Paulo | Idade: 41 anos 
 
 ## Saiba mais...
 -	Atualmente trabalho como professor/instrutor de informática básica e avançada, e também sou sócio proprietário de uma empresa de desenvolvimento de aplicações para internet;
@@ -46,12 +46,7 @@ Lençóis Paulista - São Paulo | Idade: 41 anos
   - UNESP – Universidade do Estadual Paulista “Júlio de Mesquita Filho” - Campus de Bauru – Concluído Dez/2011
 
 - Técnico em Informática
-  - SENAC – Serviço Nacional do Comercio - Unidade de Santana - Concluído Ago/2003
-
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="carlos-alexandre-cavalheiro-6b490227" data-version="v1">
-  Linkedin: 
-  <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/carlos-alexandre-cavalheiro-6b490227?trk=profile-badge">Carlos Alexandre Cavalheiro</a></div>
-              
+  - SENAC – Serviço Nacional do Comercio - Unidade de Santana - Concluído Ago/2003         
 
 <!--
 **CarlosCavalheiro/CarlosCavalheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
