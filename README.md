@@ -4,17 +4,17 @@
 
 > Lençóis Paulista - São Paulo | Idade: 41 anos 
 
-## Saiba mais...
+## Um pouco mais...
 -	Atualmente trabalho como professor/instrutor de informática básica e avançada, e também sou sócio proprietário de uma empresa de desenvolvimento de aplicações para internet;
 -	Gosto muito de aprender, considero ter facil comunicação e trabalho bem com situações de articulação entre stakeholders e que sejam desafiadoras, também considero ter facilidade em trabalhar em equipe;
 -	Sou casado com a Roberta e temos dois filhos Júlia e Guilherme, amo estar com eles e fazer "coisas" juntos;
 
-## Contato
+## Contatos
 - whatsApp: +55 (14) 98834-0554
 - linkdean: www.linkedin.com/in/cavalheiro-ca/
 - github: https://github.com/CarlosCavalheiro
 
-## DESCRIÇÃO DE ATUAÇÃO
+## ATUAÇÃO
 -	Experiência como docente Ministrado Treinamento de Aperfeiçoamento profissional para os cursos: Informática Básica, Web designer, Design Gráfico, Manutenção de Computadores, Excel Completo, Excel Avançado, Excel com ênfase em VBA, Dashboard em Excel, Gerenciamento de Projetos com MS Project atuação no curso Técnico Desenvolvimento para Internet (Full Stack);
 -	Conhecimentos e aplicação no desenvolvimento web e mobile, conhecimentos em: Html, Css, Javascript, Bootstrap, JAVA, C#.net, Xamarin.Forms, MySQL, NodeJs, Angular, versionamento com Git e SVN;
 - Administração de redes de computadores Windows Server (Administração de usuários, Active Director, Perfil, Acessos Web, IIS, etc...) e Linux (Distibuições como: Mandriva, RedHat, Debian, Slackware, configurando e administrando níveis de compartilhamento, NFS, Squid, WebMail, DNS, DHCP, Firewall, Samba, Wine, entre outros).
