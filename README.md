@@ -16,7 +16,7 @@
 
 ## ATUAÇÃO
 -	Experiência como docente Ministrado Treinamento de Aperfeiçoamento profissional para os cursos: Informática Básica, Web designer, Design Gráfico, Manutenção de Computadores, Excel Completo, Excel Avançado, Excel com ênfase em VBA, Dashboard em Excel, Gerenciamento de Projetos com MS Project atuação no curso Técnico Desenvolvimento para Internet (Full Stack);
--	Conhecimentos e aplicação no desenvolvimento web e mobile, conhecimentos em: Html, Css, Javascript, Bootstrap, JAVA, C#.net, Xamarin.Forms, MySQL, NodeJs, Angular, versionamento com Git e SVN;
+-	Conhecimentos e aplicação no desenvolvimento web e mobile, conhecimentos em: Html, Css, Javascript, Bootstrap, DART, Flutter, Python, JAVA, C#.net, Xamarin.Forms, MySQL, SQL Server, NodeJs, Angular, versionamento com Git e SVN, conhecimentos em Cloud Computing Google GCP, Microsoft Azure e Amazon AWS;
 - Administração de redes de computadores Windows Server (Administração de usuários, Active Director, Perfil, Acessos Web, IIS, etc...) e Linux (Distibuições como: Mandriva, RedHat, Debian, Slackware, configurando e administrando níveis de compartilhamento, NFS, Squid, WebMail, DNS, DHCP, Firewall, Samba, Wine, entre outros).
 
 ## ATUALMENTE ESTOU MAIS FOCADO...
